@@ -1,0 +1,41 @@
+.jumbotron {
+  
+   opacity: 5;
+}
+.btn-primary {
+    background-color: #c60063 ;
+    border-color: #c60063;
+}
+
+.text-body {
+    color: white;
+}
+
+body {
+    background: url("images/milkyway.jpeg") no-repeat center;
+    background-color: black;
+    color: white
+    
+}
+
+#sign-up-div {
+    background-color: gray;
+    padding: 5px 5px;
+}
+
+.form-text {
+    color: white;
+}
+
+.form-label {
+    color: white;
+}
+
+#bannerImg {
+    
+    height: 200px;
+}
+
+.card-body{
+    color: black;
+}
